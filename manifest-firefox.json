@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "description": "Automatically clicks the OK button on O'Reilly timeout popups to prevent session timeouts.",
   "author": "Rinor Ahmeti",
-  "homepage_url": "https://github.com/rinorahmeti/oreilly-timeout-clicker",
+  "homepage_url": "https://github.com/rinorahmeti777/o-reilly-timeout-popup-auto-clicker",
   "permissions": [
     "*://event.on24.com/*"
   ],
